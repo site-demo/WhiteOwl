@@ -1,4 +1,4 @@
 ## Сайт WhiteOwl
-- Демо версия сайта
-- Находится здесь: https://site-demo.github.io/WhiteOwl/
-- Проверяем работу
+- Демо версия сайта "Белый филин"
+- Посмотрите сайт: https://site-demo.github.io/WhiteOwl/
+- Проверяем работу.
